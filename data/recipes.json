@@ -2,7 +2,7 @@
     {
         "id": "1",
         "chefs_name": "Shawkat Osman",
-        "chef_img": "https://www.google.com/search?q=bd+chefs+picture&tbm=isch&ved=2ahUKEwj309acr9b-AhUXnCcCHYz_BgQQ2-cCegQIABAA&oq=bd+chefs+picture&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHlDBCFjOC2DLEWgAcAB4AIAB4wWIAfEVkgEFNS0yLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Rd5QZLedFZe4nsEPjP-bIA&bih=829&biw=1745&rlz=1C1CHWL_enBD1039BD1040#imgrc=UIZwGNJyWzGo3M&imgdii=sY80MjOpQPP35M",
+        "chef_img": "https://miro.medium.com/v2/resize:fit:786/0*8d0vB1EsR6RUtRny",
         "experience": "20",
         "number_of_recipe": "3"
         
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "chefs_name": "Mokbul Hossain",
-        "chef_img": "https://www.google.com/search?q=bd+chefs+picture&tbm=isch&ved=2ahUKEwj309acr9b-AhUXnCcCHYz_BgQQ2-cCegQIABAA&oq=bd+chefs+picture&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHlDBCFjOC2DLEWgAcAB4AIAB4wWIAfEVkgEFNS0yLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Rd5QZLedFZe4nsEPjP-bIA&bih=829&biw=1745&rlz=1C1CHWL_enBD1039BD1040#imgrc=Txs-liTGb-I7qM&imgdii=-_YloeYBefRAoM",
+        "chef_img": "https://jessicamudditt.files.wordpress.com/2010/10/tony-khan.jpg",
         "experience": "15",
         "number_of_recipe": "3"
         
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "chefs_name": "Nahid Osman",
-        "chef_img": "https://www.google.com/search?q=bd+chefs+picture&tbm=isch&ved=2ahUKEwj309acr9b-AhUXnCcCHYz_BgQQ2-cCegQIABAA&oq=bd+chefs+picture&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHlDBCFjOC2DLEWgAcAB4AIAB4wWIAfEVkgEFNS0yLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Rd5QZLedFZe4nsEPjP-bIA&bih=829&biw=1745&rlz=1C1CHWL_enBD1039BD1040#imgrc=-_YloeYBefRAoM&imgdii=c_PoYuIGH8ZnUM",
+        "chef_img": "https://images.squarespace-cdn.com/content/v1/5f80eb680338c579d4e97350/1620237477593-SLXA0E3RKH785YE86T8D/KhanNazim.jpg?format=1000w",
         "experience": "10",
         "number_of_recipe": "3"
         
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "chefs_name": "Kawsar Ahmed",
-        "chef_img": "https://www.google.com/search?q=bd+chefs+picture&tbm=isch&ved=2ahUKEwj309acr9b-AhUXnCcCHYz_BgQQ2-cCegQIABAA&oq=bd+chefs+picture&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHlDBCFjOC2DLEWgAcAB4AIAB4wWIAfEVkgEFNS0yLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Rd5QZLedFZe4nsEPjP-bIA&bih=829&biw=1745&rlz=1C1CHWL_enBD1039BD1040#imgrc=j-B1b64JkSPEpM&imgdii=69ywozb2HaZxLM",
+        "chef_img": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_192445.jpg",
         "experience": "08",
         "number_of_recipe": "3"
         
