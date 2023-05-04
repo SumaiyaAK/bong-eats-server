@@ -4,6 +4,7 @@
         "chefs_name": "Shawkat Osman",
         "chef_img": "https://miro.medium.com/v2/resize:fit:786/0*8d0vB1EsR6RUtRny",
         "experience": "20",
+        "likes": "444",
         "number_of_recipe": "3"
         
     },
@@ -12,6 +13,7 @@
         "chefs_name": "Mokbul Hossain",
         "chef_img": "https://jessicamudditt.files.wordpress.com/2010/10/tony-khan.jpg",
         "experience": "15",
+        "likes": "254",
         "number_of_recipe": "3"
         
     },
@@ -20,14 +22,34 @@
         "chefs_name": "Nahid Osman",
         "chef_img": "https://images.squarespace-cdn.com/content/v1/5f80eb680338c579d4e97350/1620237477593-SLXA0E3RKH785YE86T8D/KhanNazim.jpg?format=1000w",
         "experience": "10",
+        "likes": "354",
         "number_of_recipe": "3"
         
     },
     {
         "id": "4",
-        "chefs_name": "Kawsar Ahmed",
-        "chef_img": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_192445.jpg",
+        "chefs_name": "Ashafak Ahmed",
+        "chef_img": "https://ifcaindia.org/wp-content/uploads/2020/02/Chef-Sabyasachi-Gorai-President-YCAI-min.jpg",
         "experience": "08",
+        "likes": "752",
+        "number_of_recipe": "3"
+        
+    },
+    {
+        "id": "5",
+        "chefs_name": "Nabid Chowdhury",
+        "chef_img": "https://ifcaindia.org/wp-content/uploads/2020/02/CHEF-DEV-3-min.jpg",
+        "experience": "08",
+        "likes": "752",
+        "number_of_recipe": "3"
+        
+    },
+    {
+        "id": "6",
+        "chefs_name": "Shafayet Rahman",
+        "chef_img": "https://ifcaindia.org/wp-content/uploads/2020/02/Chef-Ramu-Butler-min-1.jpg",
+        "experience": "08",
+        "likes": "752",
         "number_of_recipe": "3"
         
     }

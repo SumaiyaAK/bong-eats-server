@@ -27,6 +27,13 @@ app.get('/recipe/:id', (req, res) =>{
     res.send(selectedRecipe)
 })
 
+app.get('/recipes/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    console.log(id)
+    const recipeId = Recipe.filter(r => parseInt(r.recipe_id) === id);
+    res.send(recipeId)
+})
+
 app.listen(port, ()=> {
     console.log(`Bong-Eats API is running on port: ${port}`)
 })
